@@ -2,7 +2,7 @@
 CC=clang
 CFLAGS=-g -Wall -Wextra -Werror -gdwarf-4
 
-EXEC=client-tutoriel client-BayOfPigs client-interactif client-tutorielFORT client-projetX client-planB client-crypteMove client-crypteSeq client-Northwoods client-LostCause
+EXEC=client-BayOfPigs client-interactif client-projetX client-planB client-crypteMove client-crypteSeq client-Northwoods client-LostCause
 
 # Utilisé uniquement si exécution sur Caseine.
 # Pour changer le programme lancé par Caseine, modifiez la ligne ci-dessous
